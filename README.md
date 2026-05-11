@@ -16,7 +16,8 @@ No particular theme. No structured curriculum. Just curiosity, one topic at a ti
 
 | Topic | Summary |
 |-------|---------|
-| [Data Sharding](./data-sharding.md) | How large databases split across multiple nodes to scale |
+| [Data Sharding] | How large databases split across multiple nodes to scale |
+| [Time-&-Space-Complexity] | What & how time and space complexity works |
 
 ---
 
